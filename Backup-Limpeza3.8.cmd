@@ -1,5 +1,5 @@
-﻿rem Script para Backup de dados do Usuário.
-rem V.3.7
+rem Script para Backup de dados do Usuário.
+rem V.3.8
 rem Executar sempre como AdMinistrador
 rem Início Log -----------------------------------------
 rem Incluso Pasta Configuração Google Drive							- 26/11/2017
@@ -54,7 +54,7 @@ cls
 
 ECHO ***************************************************************************************************************
 ECHO  					  Script de Backup e Limpeza
-ECHO 										Created by MFMMENEGHIN V.3.7
+ECHO 										Created by MFMMENEGHIN V.3.8
 ECHO ***************************************************************************************************************
 Echo.
 Echo ***** Recomenda-se rodar em Modo Administrador! Caso o PC tenha mais de um usuario, rodar em todos eles! *****
@@ -75,7 +75,7 @@ cls
 cls
 ECHO ***************************************************************************************************************
 ECHO  					  Script de Limpeza
-ECHO 										Created by MFMMENEGHIN V.3.7
+ECHO 										Created by MFMMENEGHIN V.3.8
 ECHO ***************************************************************************************************************
 Echo.
 Echo.
@@ -244,7 +244,7 @@ goto SELETOR
 cls
 ECHO ***************************************************************************************************************
 ECHO  						  Script de Backup 
-ECHO 										Created by MFMMENEGHIN V.3.6
+ECHO 										Created by MFMMENEGHIN V.3.8
 ECHO ***************************************************************************************************************
 Echo Escolha um disco de Destino (ex: "D:", "E:", SEM ASPAS) ou caminho de rede (ex: "\\servidor\pasta", SEM ASPAS)
 Echo.
